@@ -1,2 +1,2 @@
-# tcu687_EmailSender
-EmailSender service for tcu687 website. 
+# EmailSender
+.NET email service with SMTP. 
